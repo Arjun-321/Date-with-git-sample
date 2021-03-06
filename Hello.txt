@@ -2,4 +2,8 @@ this is my sample for git
 
 good going git
 
-no , I can't .
+no , I can't
+
+yes we can
+
+feature
